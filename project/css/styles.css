@@ -1,0 +1,15 @@
+body {
+	background-color: #ddd;
+	font-family: Arial, sans-serif;
+}
+
+.wrapper {
+	width: 500px;
+	margin: auto;
+}
+
+blockquote {
+	text-align: center;
+	margin-left: 0;
+	border: 1px solid white;	
+}
