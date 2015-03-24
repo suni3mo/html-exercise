@@ -6,6 +6,7 @@ Purpose of this project is to learn how to build simple website compliant with W
 ## Guidelines
 - Commit after adding new site component
 - Branch when enhancing structure with accessiblity attributes 
+- Branch when there are two or more good ways to solve problem
 
 ### Resources
 Jeffrey Way course "30 Days to Learn HTML & CSS"
