@@ -3,6 +3,7 @@
 	width: 80%;
 	margin: auto;
 	background: green;
+	overflow: hidden;
 }
 
 .content, aside {
@@ -25,8 +26,4 @@ aside {
 aside ul{
 	padding-left: 0;	
 	list-style: none;
-}
-
-footer {
-	clear: both;
 }
