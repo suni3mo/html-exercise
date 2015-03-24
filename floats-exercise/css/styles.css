@@ -3,6 +3,7 @@
 	width: 80%;
 	margin: auto;
 	background: green;
+	overflow: hidden;
 }
 
 .content, aside {
